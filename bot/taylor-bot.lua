@@ -233,23 +233,23 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {68747297},--Sudo users
+    sudo_users = {172561830,90516804},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Taylor Team v4
-    Taylor Team and Taylor Bot Anti spam / anti link
+    about_text = [[FORCE Team v1
+    FORCE Team and FORCE Bot Anti spam / anti link
     
     website : 
-    taylortg.ir  ❤️
+    NO WEBS ADS 😎
     
     admin : 
     
-    @negative_officiall ❤️
+    @DEVELOPER_PC 😎
     
     
     channel : 
     
     
-    @taylor_Team ❤️
+    @FORCETG_CH 😎
 ]],
     help_text_realm = [[
 Realm Commands:
