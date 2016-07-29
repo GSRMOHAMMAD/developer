@@ -208,7 +208,7 @@ if to == 'user' or service or is_admin1(msg) and to == "chat" or to == "channel"
 
 	if matches[1] == 'help' and msg.to.type == 'user' or matches[1] == 'pmhelp' and is_admin1(msg) and msg.to.type ~= 'user' then
       	savelog(msg.to.id, name_log.." ["..msg.from.id.."] used pm help")
-		text = "Welcome Taylor Bot \n admin Taylor Bot : \n @negative_officiall \n channel Taylor Bot : \n @taylor_team \n send me \n /superhelp \n /chats \n /taylor "
+		text = "Welcome force Bot \n admin force Bot : \n @Vandevoorde \n channel force Bot : \n @forcetg_ch \n send me \n /superhelp \n /chats \n /force "
      	return text
     end
 
