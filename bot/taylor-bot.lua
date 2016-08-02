@@ -239,12 +239,13 @@ function create_config( )
     FORCE Team and FORCE Bot Anti spam / anti link
     
     website : 
-    NO WEBS ADS 😎
+    http://www.forcetg.org/ 😎
     
     admin : 
     
-    @DEVELOPER_PC 😎
+    @VANDEVOORDE 😎
     
+    @MOHAMMAD_FUCKR
     
     channel : 
     
