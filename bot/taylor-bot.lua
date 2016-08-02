@@ -245,7 +245,7 @@ function create_config( )
     
     @VANDEVOORDE 😎
     
-    @MOHAMMAD_FUCKR
+    @MOHAMMAD_FUCKR 😎
     
     channel : 
     
